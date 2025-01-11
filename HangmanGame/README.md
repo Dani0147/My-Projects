@@ -34,9 +34,7 @@ The goal of this project is to provide an enjoyable way to practice Python progr
 ---
 
 ## How to Run the Game
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Dani0147/HangmanGame.git
+
 Save the words.txt file in a folder that you can easily access.
 
 Update the path in the Python script:
