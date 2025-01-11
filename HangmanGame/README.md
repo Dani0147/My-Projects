@@ -37,3 +37,17 @@ The goal of this project is to provide an enjoyable way to practice Python progr
 1. Clone this repository:
    ```bash
    git clone https://github.com/Dani0147/HangmanGame.git
+Save the words.txt file in a folder that you can easily access.
+
+Update the path in the Python script:
+
+Open the Hangman game.py file.
+Locate the following line:
+
+WORDLIST_FILENAME = 'C:\\game\\words.txt'
+Replace 'C:\\game\\words.txt' with the path to your words.txt file. For example:
+
+WORDLIST_FILENAME = 'C:\\Users\\YourUsername\\Documents\\words.txt'
+Run the game:
+
+Enjoy the game!  
