@@ -1,0 +1,39 @@
+# Hangman Game
+
+Welcome to the Hangman Restaurant Game! 🍽️  
+This project is an engaging word-guessing game with a fun "restaurant" theme, where the waiter's mood reflects your progress.
+
+---
+
+## Purpose of the Project
+The goal of this project is to provide an enjoyable way to practice Python programming, focusing on:
+- Object-Oriented Programming (OOP)
+- File handling for dynamic word list loading
+- Interactive game logic
+
+---
+
+## Features
+1. **Dynamic Word List**:
+   - Includes culinary-themed words loaded from an external file (`words.txt`).
+2. **Interactive Hangman Graphics**:
+   - Unique waiter stages add a humorous touch to gameplay.
+3. **Hints**:
+   - After 3 wrong guesses, the game provides hints to assist the player.
+4. **Clear Interface**:
+   - Easy-to-understand, user-friendly text interface.
+
+---
+
+## Technologies Used
+- **Python**:
+  - Handles the game logic, user input, and word selection.
+- **File Handling**:
+  - The word list is loaded dynamically from the `words.txt` file.
+
+---
+
+## How to Run the Game
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Dani0147/HangmanGame.git
