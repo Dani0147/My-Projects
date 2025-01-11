@@ -6,7 +6,7 @@ This project analyzes customer data to identify factors influencing their decisi
 ---
 
 ## Files
-- **Assignment4_Banking.ipynb**:
+- **Banking.ipynb**:
   - Contains the Python code for data preprocessing, analysis, visualization, and machine learning.
 - **bankingFull.csv**:
   - The dataset containing detailed customer information, including demographics, economic status, and past marketing campaign results.
